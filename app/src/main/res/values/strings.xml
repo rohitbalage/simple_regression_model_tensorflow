@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Simple regression Model</string>
+    <string name="predict">predict</string>
 </resources>
